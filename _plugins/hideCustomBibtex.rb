@@ -13,3 +13,5 @@
 end
 
 Liquid::Template.register_filter(Jekyll::HideCustomBibtex)
+
+
