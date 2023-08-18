@@ -1,27 +1,36 @@
 ---
 layout: about
-title: about
+title: about me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Computational Fluid Dynamics Lab, UC Berkeley</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  # address: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Trying to put in bipgraphy. Change later.
+Welcome! I am a Ph.D. candidate in the Computational Fluid Dynamic Labortory of UC Berkeley, supervised by Prof. Philip Marcus. I gained my B.Eng. degree from Sun Yat-Sen University, majoring in Theoretical and Applied Mechanics.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have tried different research topics when I was an undergraduate. I studied optimization in structural damage detection and Rayleigh-Bénard convection simulation. The second experience raised my interest in computational fluid dynamics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research interest now is geophysical and astrophysical fluid dynamics. I am studying the three-dimensional structure and the longevity of the Great Red Spot on Jupiter using the spectral method. I am curious on why the Great Red Spot can survive for such a long time. I am also trying to recover some observation results in our CFD simulations.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I enjoy hiking and photography in my leisure time. I especially like taking photos of interesting astronomy phenomena. I enjoy seeing the most astonishing phenomena in the sky. Here are two photos I took before. One is the Venus transit on Jun 6th, 2012, taken in Guangzhou, China. The other is the total solar eclipse on Aug. 17th, 2017, taken in Madras, Oregon. One of my life goals is to see Venus transit one more time, which will be in 2117 🙂
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Venus_transit.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Solar_ellipse.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>

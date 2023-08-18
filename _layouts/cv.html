@@ -105,6 +105,10 @@ layout: default
               {% include resume/interests.html %}
             {% when "certificates" %}
               {% include resume/certificates.html %}
+            {% when "research experience" %}
+              {% include resume/research_experience.html %}
+              {% when "programing skills" %}
+                {% include resume/programing_skills.html %}
             {% else %}
 
           {% endcase %}

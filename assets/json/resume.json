@@ -1,74 +1,110 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "name": "Aidi Zhang (张艾迪）",
+    "image": "prof_pic.jpg",
+    "email": "aidi_zhang@berkeley.edu",
+    "url": "https://aidi-zhang.github.io/"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Computational Fluid Lab, University of California, Berkeley",
+      "position": "Ph.D. candidate",
+      "url": "https://cfd.me.berkeley.edu/people/aidi-zhang/",
+      "startDate": "2017-08",
+      "endDate": "Now",
+      "summary": "Studying the three-dimensional structure and longevity of the Great Red Spot, by combining observation data with a three-dimensional pseudo-spectral anelastic simulation code",
       "highlights": [
-        "Relativity"
+        "Computational Fluid Dynamics", "Geophysical and Astrophysical Flow", "Pseudo-spectral method"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "institution": "University of California, Berkeley, United States of America",
+      "area": "Mechanical Engineering",
+      "studyType": "Ph.D. Candidate",
+      "Thesis title": "The three-dimensional structure and longeivity of the Great Red Spot (in preparation)",
+      "startDate": "2017-08",
+      "endDate": "Now"
+    },
+    {
+      "institution": "Sun Yat-Sen University, Guangzhou, China",
+      "area": "Theoretical and Applied Mechanics",
+      "studyType": "B.Eng.",
+      "Thesis title": "The study of two-dimensional Rayleigh-Bénard Convection with different Prandtl number",
+      "startDate": "2013-08",
+      "endDate": "2017-05"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Chang-Lin Tien Graduate Fellowship",
+      "date": "2023",
+      "awarder": "University of California, Berkeley"
+    },
+    {
+      "title": "Robert P. Lin Graduate Fellowship",
+      "date": "2022",
+      "awarder": "Space Science Lab, University of California, Berkeley"
+    },
+    {
+      "title": "Graduate Division Summer Grant",
+      "date": "2020, 2019, 2018",
+      "awarder": "University of California, Berkeley"
+    },
+    {
+      "title": "Outstanding undergraduate student",
+      "date": "2015, 2014",
+      "awarder": "Sun Yat-Sen University"
+    }
+  ],
+  "research experience": [
+    {"name": "the longevity and three-dimensional structure of the Great Red Spot on Jupiter",
+    "startDate": "2018",
+    "endDate": "Now",
+    "institution": "University of California, Berkeley"
+    },
+    {"name": "the Study of two-dimensional Rayleigh-Bénard Convection with different Pr number",
+    "startDate": "2016",
+    "endDate": "2017",
+    "institution": "Sun Yat-Sen University"
+    },
+    {"name": "applying Big Bang-Big Crunch algorithm in structure health analysis",
+    "startDate": "2015",
+    "endDate": "2016",
+    "institution": "Sun Yat-Sen University"
     }
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "programing skills": [
+    {"name":"FORTRAN"
+    },
+    {"name":"MATLAB"
+    },
+    {"name":"MPI"
+    },
+    {"name":"Python"
+    },
+    {"name":"Julia"
+    }],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Cantonese",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Elementary"
     }
   ],
   "interests": [],

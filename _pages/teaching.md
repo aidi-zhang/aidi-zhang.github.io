@@ -2,11 +2,35 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Lists of courses I have taught
 nav: true
 nav_order: 5
 ---
+#### **Mechanical Engineering**
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+##### ME 106 (Fluid Mechanics)
+    Insititution: University of California, Berkeley
+    Role: Graduate Student Instructor
+    Responsibilities: Conducting discussion sections. Holding office hours. Grading homework and exams.
+    Years taught: 2019 Fall, 2020 Spring, 2021 Fall
 
-Organize your courses by years, topics, or universities, however you like!
+##### ME 106 (Fluid Mechanics)
+    Insititution: University of California, Berkeley
+    Role: Graduate Student Instructor (instructing lectures)
+    Responsibilities: Conducting lectures. Designing and grading homework and exams.
+    Years taught: 2021 Summer    
+
+#### **Physics**
+
+##### Physics 7A (Physics for Scientists and Engineers)
+    Insititution: University of California, Berkeley
+    Role: Graduate Student Instructor
+    Responsibilities: Conducting discussion sections. Holding office hours. Grading homework and exams.
+    Years taught: 2018 Spring, 2020 Fall, 2021 Spring
+    
+##### Physics 8A (Introductory Physics)
+    Insititution: University of California, Berkeley
+    Role: Graduate Student Instructor
+    Responsibilities: Conducting discussion sections. Holding office hours. Grading homework and exams.
+    Years taught: 2022 Spring
+
