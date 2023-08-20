@@ -1,9 +1,10 @@
 # Short-hand configuration of this github repo
-1. Prerequisites and version info
+## Prerequisites and version info
   Windows 10
+
   Docker Compose version v2.20.2-desktop.1 (for Windows systems)
     Ruby and gem are installed using a docker image
-2. Building step
+##  Building steps
   a. Install Docker. Sign in and run Docker Desktop
   b. Copy the al-folio repo into your own account (See instruction in the following al-folio manual)
   c. Git clone your own repo to your local machine
