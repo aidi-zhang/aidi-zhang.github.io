@@ -1,3 +1,17 @@
+# Short-hand configuration of this github repo
+1. Prerequisites and version info
+  Windows 10
+  Docker Compose version v2.20.2-desktop.1 (for Windows systems)
+    Ruby and gem are installed using a docker image
+2. Building step
+  a. Install Docker. Sign in and run Docker Desktop
+  b. Copy the al-folio repo into your own account (See instruction in the following al-folio manual)
+  c. Git clone your own repo to your local machine
+  d. Git bash in the local directory, run 
+  ```bash
+  $ docker-compose up
+  ```
+  e. The website is ready to review locally at localhost:8080
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
