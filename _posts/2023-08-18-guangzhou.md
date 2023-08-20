@@ -8,9 +8,9 @@ categories: travelling
 thumbnail: assets/img/2023Guangzhou/yqf3.jpg
 ---
 
-After three long years of the enduring pandemic, I was elated to finally make my way back to my hometown, Guangzhou. Reuniting with my families and reconnecting old friends offered a much-needed and delightful escape from my research endeavors. 
+After three long years of the enduring pandemic, I was elated to finally make my way back to my hometown, Guangzhou. Reuniting with my family and reconnecting with old friends offered a much-needed and delightful escape from my research endeavors.
 
-Glimpsing at my high school, 华师附中 (the Affliated High School of South China Normal University), from outside, I couldn't help but notice how many things remained unchanged. A deluge of memories came rushing back as I passed by.
+Glimpsing at my high school, 华师附中 (the Affiliated High School of South China Normal University), from outside, I couldn't help but notice how many things remained unchanged. A deluge of memories came rushing back as I passed by.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/2023Guangzhou/HF_playground.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -39,7 +39,7 @@ Exploring the 南越王宫博物馆 (Museum of the Southern Yue Palace), an arch
     </div>
 </div>
 
-Visiting 永庆坊 (Yongqing Fang), an authentic street of traditional Cantonese architectures. This area has been transformed to serve as a vibrant showcase of diverse Cantonese culture.
+Visiting 永庆坊 (Yongqing Fang), an authentic street of traditional Cantonese architecture. This area has been transformed to serve as a vibrant showcase of diverse Cantonese culture.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -61,7 +61,7 @@ Visiting 永庆坊 (Yongqing Fang), an authentic street of traditional Cantonese
 
 
 
-The famous Chinese phrase "食在广州" (One should eat in Guangzhou) perfectly encapsulates the city's reputation for exceptional cuisine. Here, I present a visual feast of some of the delicious dishes I had the privilege of savoring during my stay.
+The famous Chinese phrase "食在广州" (One should eat in Guangzhou) perfectly indicates the city's reputation for exceptional cuisine. Here, I present a visual feast of some of the delicious dishes I enjoyed during my stay.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -125,3 +125,18 @@ Just before my return to the US, I seized the chance to visit one of my dearest 
         {% include figure.html path="assets/img/2023Guangzhou/hk4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+The delightful journey came to an end as I boarded my flight back to the US. I couldn't help but think about a famous Chinese poem. <br />
+
+&nbsp; 人有悲欢离合，(People have sorrow and joy; they part or meet again;)<br />
+
+&nbsp; 月有阴晴圆缺，(The moon is bright or dim and she may wax or wane.)<br />
+
+&nbsp; 此事古难全。(There has been nothing perfect since the olden days.)<br />
+
+&nbsp; 但愿人长久，(So let us wish that everyone will live long as they can!)<br />
+
+&nbsp; 千里共婵娟。(Though miles apart, we’ll share the beauty she displays.)<br />
+
+
+<!-- 海上生明月，天涯共此时。 (From the vast sea rises the moon so bright. Though so far apart we share the same sight.) -->
