@@ -7,18 +7,79 @@ tags: trips
 categories: travelling
 thumbnail: assets/img/2023Guangzhou/yqf3.jpg
 ---
-After 3 years of pandemic, I finally went back to my hometown Guangzhou! It was awsome to stay with my families and visit old friends. 
 
-This is an ongoing post
+After three long years of the enduring pandemic, I was elated to finally make my way back to my hometown, Guangzhou. Reuniting with my families and reconnecting old friends offered a much-needed and delightful escape from my research endeavors. 
 
-Guangzhou is famous for its authentic cantonese cusine and various delicious food. Here are some photos of food.
+Glimpsing at my high school, 华师附中 (the Affliated High School of South China Normal University), from outside, I couldn't help but notice how many things remained unchanged. A deluge of memories came rushing back as I passed by.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/HF_playground.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+Exploring the 南越王宫博物馆 (Museum of the Southern Yue Palace), an archaeological marvel showcasing the site and relics from a palace and garden dating all the way back to 200 BC.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/nywg1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/nywg2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/nywg5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/nywg4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/nywg3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+Visiting 永庆坊 (Yongqing Fang), an authentic street of traditional Cantonese architectures. This area has been transformed to serve as a vibrant showcase of diverse Cantonese culture.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/yqf1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/yqf2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/yqf4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/yqf3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
+
+
+The famous Chinese phrase "食在广州" (One should eat in Guangzhou) perfectly encapsulates the city's reputation for exceptional cuisine. Here, I present a visual feast of some of the delicious dishes I had the privilege of savoring during my stay.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/2023Guangzhou/food1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/food6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/food10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/2023Guangzhou/food2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/food5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/2023Guangzhou/food3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -26,10 +87,10 @@ Guangzhou is famous for its authentic cantonese cusine and various delicious foo
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023Guangzhou/food4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/2023Guangzhou/food8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023Guangzhou/food5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/2023Guangzhou/food4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/2023Guangzhou/food7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -37,17 +98,30 @@ Guangzhou is famous for its authentic cantonese cusine and various delicious foo
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023Guangzhou/food8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023Guangzhou/food9.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/2023Guangzhou/food11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-</div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/2023Guangzhou/food12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/food13.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+Just before my return to the US, I seized the chance to visit one of my dearest high school friends in Hong Kong. Got some nice photos during the stay.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/hk3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/hk2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023Guangzhou/hk4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
