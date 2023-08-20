@@ -17,7 +17,9 @@
   ```
 
   e. The website is ready to review locally at localhost:8080
-  
+
+  f. Check the al-folio instruction on how to setup and deploy your website
+
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
