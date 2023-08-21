@@ -20,17 +20,8 @@ strong {
 }
 
 body {
-  font-family: 'Open Sans', 'Noto Serif SC', serif;
+  font-family: 'Open Sans', 'Noto Serif SC', sans-serif;
 }
-  // /* 来源自 https://w3c.github.io/clreq/local.css */
-  // [lang=zh-hant] body {
-  //   font-family: 'PingFang TC', 'Noto Sans CJK TC', 'Heiti TC', 'Microsoft JhengHei', Helvetica, Segoe UI, Arial, sans-serif;
-  // }
-  
-  // [lang=zh-hans] body {
-  //   font-family: 'PingFang SC', 'Noto Sans CJK SC', 'Heiti SC', 'DengXian', 'Microsoft YaHei', Helvetica, Segoe UI, Arial, sans-serif;
-  // }
-
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
