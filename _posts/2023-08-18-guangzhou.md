@@ -128,15 +128,15 @@ Just before my return to the US, I seized the chance to visit one of my dearest 
 
 The delightful journey came to an end as I boarded my flight back to the US. I couldn't help but think about a famous Chinese poem. <br />
 
-&nbsp; 人有悲欢离合，(People have sorrow and joy; they part or meet again;)<br />
+&nbsp; <font face="仿宋"> 人有悲欢离合，(People have sorrow and joy; they part or meet again;)</font>
 
-&nbsp; 月有阴晴圆缺，(The moon is bright or dim and she may wax or wane.)<br />
+&nbsp; <font face="仿宋"> 月有阴晴圆缺，(The moon is bright or dim and she may wax or wane.)</font>
 
-&nbsp; 此事古难全。(There has been nothing perfect since the olden days.)<br />
+&nbsp; <font face="仿宋"> 此事古难全。(There has been nothing perfect since the olden days.)</font>
 
-&nbsp; 但愿人长久，(So let us wish that everyone will live long as they can!)<br />
+&nbsp; <font face="仿宋"> 但愿人长久，(So let us wish that everyone will live long as they can!)</font>
 
-&nbsp; 千里共婵娟。(Though miles apart, we’ll share the beauty she displays.)<br />
+&nbsp; <font face="仿宋"> 千里共婵娟。(Though miles apart, we’ll share the beauty she displays.)</font>
 
 
 <!-- 海上生明月，天涯共此时。 (From the vast sea rises the moon so bright. Though so far apart we share the same sight.) -->
