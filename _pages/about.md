@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about me
+title: About Me
 permalink: /about/
 subtitle: <a href='https://cfd.me.berkeley.edu/'>Computational Fluid Dynamics Lab, UC Berkeley</a>
 nav: true
