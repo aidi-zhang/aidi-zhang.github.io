@@ -21,7 +21,14 @@ pagination:
   {% if blog_name_size > 0 or blog_description_size > 0 %}
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
+    <div class="row justify-content-center">
+      <div class="col-sm-6 col-md-4 mt-3 text-center">
+          {% include figure.html path="../assets/img/eureka.png" title="Eureka!" class="img-fluid rounded z-depth-1 smaller-image" %}
+      </div>
+    </div>
+    <!-- <img src="../assets/img/eureka.png" alt="Eureka!" width="300" height="200"> -->
     <h2>{{ site.blog_description }}</h2>
+    <h6>Image taken in the Balboa park, San Diego</h6>
   </div>
   {% endif %}
 
