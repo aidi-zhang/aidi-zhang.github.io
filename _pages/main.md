@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my website! I am a Ph.D. candidate in the Computational Fluid Dynamics Laboratory at UC Berkeley, supervised by Prof. Philip Marcus. Currently, I am working on understanding the three-dimensional structure and the remarkable longevity of Jupiter's Great Red Spot (GRS), which has persisted for at least 166 years. You can read more about me [here](/about)
+Welcome to my website! I am a Ph.D. candidate in the Computational Fluid Dynamics Laboratory at UC Berkeley, supervised by Prof. Philip Marcus. My research interests lie in the physics of flows in geophysical and astrophysical fluid dynamics. My Ph.D. thesis focuses on understanding the three-dimensional structure and the remarkable longevity of Jupiter's Great Red Spot (GRS), which has persisted for at least 166 years. In September 2024, I will be joining the Convection & Climate Group at the University of Chicago. You can read more about me [here](/about)
 
 
 <br>
