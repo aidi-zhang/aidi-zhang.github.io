@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://cfd.me.berkeley.edu/'>Computational Fluid Dynamics Lab, UC Berkeley</a>
+subtitle: <a href='https://www.yang-climate-group.org//'>Convection & Climate group, University of Chicago</a>
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my website! I am a Ph.D. candidate in the Computational Fluid Dynamics Laboratory at UC Berkeley, supervised by Prof. Philip Marcus. My research interests lie in the physics of flows in geophysical and astrophysical fluid dynamics. My Ph.D. thesis focuses on understanding the three-dimensional structure and the remarkable longevity of Jupiter's Great Red Spot (GRS), which has persisted for at least 166 years. In September 2024, I will be joining the Convection & Climate Group at the University of Chicago. You can read more about me [here](/about)
+Welcome to my website! I am a postdoctoral scholar in the Convection & Climate group at the University of Chicago. My research focuses on the fluid dynamics of climate systems on Earth and other planets. Currently, I am investigating the dynamics of atmospheric rivers using the Community Earth System Model (CESM) and a two-layer shallow water model. You can read more about me [here](/about)
 
 
 <br>
@@ -32,8 +32,9 @@ Welcome to my website! I am a Ph.D. candidate in the Computational Fluid Dynamic
 
 
 ---
-###### <span style="color:purple; font-weight:700;"># Computational Fluid Dynamics: </span> *Pseudo-Spectral Method, High performance computing and MPI*
+###### <span style="color:purple; font-weight:700;"># Climate:</span> *Atmospheric river*
 ###### <span style="color:purple; font-weight:700;"># Geophysical Fluid Dynamics:</span> *Anelastic flow, vortex dynamics*
+###### <span style="color:purple; font-weight:700;"># Computational Fluid Dynamics: </span> *Pseudo-Spectral Method, High performance computing and MPI*
 ###### <span style="color:purple; font-weight:700;"># Planetary Science:</span> *Jupiter, Great Red Spot*
 ###### <span style="color:purple; font-weight:700;"># Outside academia:</span> *Photography/Hiking/stargazing/etc.*
 <br>

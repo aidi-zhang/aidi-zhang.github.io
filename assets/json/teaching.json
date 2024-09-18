@@ -2,7 +2,7 @@
   "basics": {
     "name": "Aidi Zhang (张艾迪）",
     "image": "prof_pic.jpg",
-    "email": "aidi_zhang@berkeley.edu",
+    "email": "aidiz at uchicago.edu",
     "url": "https://aidi-zhang.github.io/"
   },
   "work": [
@@ -23,16 +23,16 @@
     {
       "institution": "University of California, Berkeley, United States of America",
       "area": "Mechanical Engineering",
-      "studyType": "Ph.D. Candidate",
-      "Thesis title": "The three-dimensional structure and longeivity of the Great Red Spot (in preparation)",
+      "studyType": "Ph.D.",
+      "Thesis_title": "Thesis title: The three-dimensional structure and longeivity of the Great Red Spot (in preparation)",
       "startDate": "2017-08",
-      "endDate": "Now"
+      "endDate": "2024-08"
     },
     {
       "institution": "Sun Yat-Sen University, Guangzhou, China",
       "area": "Theoretical and Applied Mechanics",
       "studyType": "B.Eng.",
-      "Thesis title": "The study of two-dimensional Rayleigh-Bénard Convection with different Prandtl number",
+      "Thesis_title": "Thesis title: The study of two-dimensional Rayleigh-Bénard Convection with different Prandtl number",
       "startDate": "2013-08",
       "endDate": "2017-05"
     }
