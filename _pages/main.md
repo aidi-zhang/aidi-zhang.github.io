@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.yang-climate-group.org//'>Convection & Climate group, University of Chicago</a>
+subtitle: <a href='https://www.yang-climate-group.org//'>Convection & Climate group, Stanford University</a>
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my website! I am a postdoctoral scholar in the Convection & Climate group at the University of Chicago. My research focuses on the fluid dynamics of climate systems on Earth and other planets. Currently, I am investigating the dynamics of atmospheric rivers using the Community Earth System Model (CESM) and a two-layer shallow water model. You can read more about me [here](/about)
+Welcome to my website! I am a postdoctoral scholar in the Convection & Climate group at the Stanford University. My research focuses on the fluid dynamics of climate systems on Earth and other planets. Currently, I am investigating the dynamics of atmospheric rivers using the Community Earth System Model (CESM) and a two-layer shallow water model. You can read more about me [here](/about)
 
 
 <br>
