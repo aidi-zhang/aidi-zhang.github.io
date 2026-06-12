@@ -10,9 +10,11 @@
               {% else %}
               {% assign latest_posts_limit = latest_posts_size %}
               {% endif %}
+              {%- assign _strings = site.data[site.active_lang].strings -%}
+              {%- assign _date_format = _strings.date_format | default: "%b %-d, %Y" -%}
               {% for item in latest_posts limit: latest_posts_limit %}
                 <tr>
-                  <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+                  <th scope="row">{{ item.date | date: _date_format }}</th>
                   <td>
                     {% if item.redirect == blank %}
                       <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>

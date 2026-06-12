@@ -13,7 +13,10 @@
 
   d. Git bash in the local directory, run 
   ```bash
-  $ docker-compose up
+  # Run the followng for once for building
+  $ docker compose -f docker-local.yml build --no-cache
+  # Run the following to build the webpages
+  $ docker compose -f docker-local.yml up
   ```
 
   e. The website is ready to review locally at localhost:8080

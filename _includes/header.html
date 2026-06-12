@@ -7,14 +7,19 @@
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
             {%- if site.title == "blank" -%}
-              {%- if site.first_name -%}
-                <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
-              {%- endif -%}
-              {%- if site.middle_name -%}
-                {{- site.middle_name -}}&nbsp;
-              {%- endif -%}
-              {%- if site.last_name -%}
-                {{- site.last_name -}}
+              {%- assign _strings = site.data[site.active_lang].strings -%}
+              {%- if _strings.display_name -%}
+                {{- _strings.display_name -}}
+              {%- else -%}
+                {%- if site.first_name -%}
+                  <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
+                {%- endif -%}
+                {%- if site.middle_name -%}
+                  {{- site.middle_name -}}&nbsp;
+                {%- endif -%}
+                {%- if site.last_name -%}
+                  {{- site.last_name -}}
+                {%- endif -%}
               {%- endif -%}
             {%- else -%}
               {{- site.title -}}
@@ -54,7 +59,8 @@
               {% if site.blog_nav_title %}
               <!-- Blog -->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
+                {%- assign _strings = site.data[site.active_lang].strings -%}
+                <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ _strings.blog.navigation_title | default: site.blog_nav_title }}
                   {%- if page.url contains 'blog' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -94,6 +100,48 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+              <!-- Toggle language -->
+              {%- if site.languages.size >= 2 -%}
+              {%- if site.languages.size == 2 -%}
+                {%- if site.active_lang == site.languages.first -%}
+                  {%- assign other_lang = site.languages.last -%}
+                {%- else -%}
+                  {%- assign other_lang = site.languages.first -%}
+                {%- endif -%}
+                <li class="nav-item active">
+                  {%- if site.active_lang == site.default_lang -%}
+                  <a class="nav-link" {% static_href %}href="{{ site.baseurl }}/{{ other_lang }}{{ page.url }}"{% endstatic_href %}>
+                    {{- site.language_labels[other_lang] | default: other_lang | upcase -}}
+                  </a>
+                  {%- else -%}
+                  <a class="nav-link" {% static_href %}href="{{ site.baseurl }}{{ page.url }}"{% endstatic_href %}>
+                    {{- site.language_labels[site.default_lang] | default: site.default_lang | upcase -}}
+                  </a>
+                  {%- endif -%}
+                </li>
+              {%- else -%}
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="langDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    {{- site.language_labels[site.active_lang] | default: site.active_lang | upcase -}}
+                  </a>
+                  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="langDropdown">
+                    {%- assign lang_set = false -%}
+                    {%- for l in site.languages -%}
+                    {%- if l != site.active_lang -%}
+                    {%- if lang_set %}<div class="dropdown-divider"></div>{%- endif -%}
+                    {%- if l == site.default_lang -%}
+                    <a class="dropdown-item" {% static_href %}href="{{ site.baseurl }}{{ page.url }}"{% endstatic_href %}>{{ site.language_labels[l] | default: l | upcase }}</a>
+                    {%- else -%}
+                    <a class="dropdown-item" {% static_href %}href="{{ site.baseurl }}/{{ l }}{{ page.url }}"{% endstatic_href %}>{{ site.language_labels[l] | default: l | upcase }}</a>
+                    {%- endif -%}
+                    {%- assign lang_set = true -%}
+                    {%- endif -%}
+                    {%- endfor -%}
+                  </div>
+                </li>
+              {%- endif -%}
+              {%- endif -%}
+
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->

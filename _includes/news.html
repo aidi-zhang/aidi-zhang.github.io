@@ -9,9 +9,11 @@
               {% else %}
               {% assign news_limit = news_size %}
               {% endif %}
+              {%- assign _strings = site.data[site.active_lang].strings -%}
+              {%- assign _date_format = _strings.date_format | default: "%b %-d, %Y" -%}
               {% for item in news limit: news_limit %}
                 <tr>
-                  <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+                  <th scope="row">{{ item.date | date: _date_format }}</th>
                   <td>
                     {% if item.inline -%}
                       {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
