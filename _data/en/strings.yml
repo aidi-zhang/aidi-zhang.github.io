@@ -1,0 +1,123 @@
+display_name: "Aidi Zhang (张艾迪)"
+date_format: "%b %-d, %Y"
+blog_image_caption: "Image taken in the Balboa park, San Diego"
+display_tags:
+  - "trips"
+display_categories:
+  - "travelling"
+min_read_prefix: ""
+min_read_suffix: " min read"
+archive:
+  prefix: an archive of
+  category_suffix: in this category
+  tag_suffix: with this tag
+  year_suffix: from this year
+bibliography:
+  abstract: Abs
+  blog: Blog
+  code: Code
+  poster: Poster
+  slides: Slides
+  supp: Supp
+  video: Video
+  website: Website
+blog:
+  navigation_title: blog
+cv:
+  address: Address
+  area: Area
+  awarder: Awarder
+  awards: Awards
+  basics: General Information
+  certificates: Certificates
+  city: City
+  courses: Courses
+  date: Date
+  education: Education
+  email: Email
+  endDate: End date
+  fluency: Fluency
+  highlights: Highlights
+  institution: Institution
+  interests: Interests
+  issuer: Issuer
+  keywords: Keywords
+  label: Label
+  language: Language
+  languages: Languages
+  level: Level
+  location: Location
+  name: Name
+  organization: Organization
+  phone: Phone
+  position: Position
+  postalCode: Postal Code
+  present: Present
+  profiles: Profiles
+  projects: Projects
+  publications: Publications
+  publisher: Publisher
+  reference: Reference
+  references: References
+  region: Region
+  releaseDate: Release date
+  score: Score
+  skills: Skills
+  "programing skills": Programming Skills
+  startDate: Start date
+  studyType: Study type
+  summary: Summary
+  table_of_contents: Table of Contents
+  title: Title
+  url: URL
+  username: Username
+  volunteer: Volunteer
+  work: Work
+footer:
+  copyright: Copyright
+  last_updated: "Last updated:"
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+latest_posts: latest posts
+months:
+  long:
+    january: January
+    february: February
+    march: March
+    april: April
+    may: May
+    june: June
+    july: July
+    august: August
+    september: September
+    october: October
+    november: November
+    december: December
+  short:
+    january: Jan
+    february: Feb
+    march: Mar
+    april: Apr
+    may: May
+    june: Jun
+    july: Jul
+    august: Aug
+    september: Sep
+    october: Oct
+    november: Nov
+    december: Dec
+news: news
+no_news: No news so far...
+no_posts: No posts so far...
+pagination:
+  page: page
+post:
+  created_in: Created in
+  created_by: by
+  last_updated: last updated in
+related_posts:
+  description: "Here are some more articles you might like to read next:"
+  title: Enjoy Reading This Article?
+selected_publications: selected publications
+site_description: A simple, whitespace theme for academics.
