@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my website! I am a postdoctoral scholar in the Convection & Climate group at the Stanford University. My research focuses on the fluid dynamics of climate systems on Earth and other planets. Currently, I am investigating the dynamics of atmospheric rivers using the Community Earth System Model (CESM) and a two-layer shallow water model. You can read more about me [here](/about)
+Welcome to my website! I am a postdoctoral scholar in the Convection & Climate group at the Stanford University. My research focuses on the fluid dynamics of climate systems on Earth and other planets. Currently, I am investigating the dynamics of atmospheric rivers using the Community Earth System Model (CESM2) and a two-layer shallow water model. You can read more about me [here](/about)
 
 
 <br>

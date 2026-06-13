@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <!-- Welcome to my website! I am a postdoctoral scholar in the Convection & Climate group at the Stanford University. My research focuses on the fluid dynamics of climate systems on Earth and other planets. Currently, I am investigating the dynamics of atmospheric rivers using the Community Earth System Model (CESM) and a two-layer shallow water model. You can read more about me [here](/about) -->
-欢迎！我是斯坦福大学对流与气候（Convection & Climate）研究组的博士后研究员。我的研究重点是地球及其他行星气候系统的流体力学。目前，我正利用（CESM）和双层浅水 (two-layer shallow water)模式，研究大气河的动力学机制。您可以在[这里](/about)了解更多关于我的信息。
+欢迎！我是斯坦福大学对流与气候（Convection & Climate）研究组的博士后研究员。我的研究重点是地球及其他行星气候系统的流体力学。目前，我正利用（CESM2）和双层浅水 (two-layer shallow water)模式，研究大气河的动力学机制。您可以在[这里](/about)了解更多关于我的信息。
 
 <br>
 <br>
