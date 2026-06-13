@@ -5,6 +5,7 @@ description: A VKE perspective on AR evolution globally
 img: assets/img/publication_preview/GRL26_AR.png
 importance: 1
 category: work
+related_publications: zhang2026understanding
 ---
 
 

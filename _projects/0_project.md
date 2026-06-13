@@ -5,6 +5,7 @@ description: Understanding the 3D structure of Jovian vortices using numerical s
 img: assets/img/publication_preview/JFM_GRS.jpg
 importance: 2
 category: work
+related_publications: zhang2024stable
 ---
 
 
