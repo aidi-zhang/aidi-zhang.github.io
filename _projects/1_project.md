@@ -15,7 +15,7 @@ Our recent [study](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025G
 The following is our AGU 2025 presentation. This is a slide-only recording with no audio narration.
 
 <div style="position: relative; width: 100%; padding-top: 56.25%;">
-  <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-    <source src="{{ '/assets/video/AGU25_AR.mp4' | relative_url }}" type="video/mp4">
-  </video>
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/eBnclyqEGU0"
+    frameborder="0" allowfullscreen></iframe>
 </div>

@@ -14,8 +14,8 @@ category: work
 以下是我们在AGU 2025年会上的展示。此为纯幻灯片录像，不含语音讲解。
 
 <div style="position: relative; width: 100%; padding-top: 56.25%;">
-  <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-    <source src="{{ '/assets/video/AGU25_AR.mp4' | relative_url }}" type="video/mp4">
-  </video>
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/eBnclyqEGU0"
+    frameborder="0" allowfullscreen></iframe>
 </div>
 
